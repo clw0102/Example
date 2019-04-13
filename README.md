@@ -6,7 +6,7 @@
 
 [![Freelancer Preview](https://startbootstrap.com/assets/img/screenshots/themes/freelancer.png)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
 
-**[View Live Preview](https://somedudenamedsam.github.io/startbootstrap-freelancer/)**
+**[View Live Preview](https://somedudenamedsam.github.io/Example/)**
 
 ## Status
 
